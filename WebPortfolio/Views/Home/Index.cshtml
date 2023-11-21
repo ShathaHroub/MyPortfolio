@@ -1,0 +1,139 @@
+﻿@model HomeViewModel
+@{
+	ViewData["Title"] = "Index";
+
+}
+
+<!-- page header -->
+<header id="home" class="header">
+	<div class="overlay"></div>
+	<div class="header-content container">
+		<h1 class="header-title">
+			<span class="up">HI!</span>
+			<span class="down">I am @Model.Owner.FullName</span>
+		</h1>
+		<p class="header-subtitle">@Model.Owner.Headline</p>
+
+		
+	</div>
+</header><!-- end of page header -->
+<!-- about section -->
+<section class="section pt-0" id="about">
+	<!-- container -->
+	<div class="container text-center">
+		<!-- about wrapper -->
+		<div class="about">
+			<div class="about-img-holder">
+				<img src="~/imgs/@Model.Owner.Picture" class="about-img"
+					 alt="Me">
+			</div>
+			<div class="about-caption">
+				<p class="section-subtitle">Who Am I ?</p>
+				<h2 class="section-title mb-3">About Me</h2>
+				<p>
+				My name is Shatha. I mainly develop websites using ASP.Net Core and I also like to design UI using figma mostly. I focus on 
+				finding creative ideas to practice new concepts related to web development field. And I'm always eager to evolve my skills as a person 
+				and a devloper too. 
+				</p>
+				<a href="@Url.Action("DownloadCV", "Home")" class="btn-rounded btn btn-outline-primary mt-4">Download CV</a>
+			</div>
+		</div><!-- end of about wrapper -->
+	</div><!-- end of container -->
+</section> <!-- end of about section -->
+<!-- portfolio section -->
+<section class="section" id="portfolio">
+	<div class="container text-center">
+		<p class="section-subtitle">My Work ?</p>
+		<h6 class="section-title mb-6">Here's My Portfolio</h6>
+		<!-- row -->
+		<div class="row">
+			
+			@foreach (var item in Model.PortfolioItems)
+			{
+				<div class="col-md-4" data-toggle="modal" data-target="#item-@item.Id">
+					<a href="#" class="portfolio-card">
+						<img src="~/imgs/@item.ImageUrl" height= "300" width="200"class="portfolio-card-img"
+							 alt="MyProject">
+						<span class="portfolio-card-overlay">
+							<span class="portfolio-card-caption">
+								<h4>
+									@item.ProjectName
+								</h4>
+								<p class="font-weight-normal">Developed By Shatha</p>
+							</span>
+						</span>
+					</a>
+				</div>
+			}
+				
+			
+		</div>
+		<!-- end of row -->
+	</div><!-- end of container -->
+</section> <!-- end of portfolio section -->
+<!-- contact section -->
+<section class="section" id="contact">
+	<div class="container text-center">
+		<p class="section-subtitle">How can you communicate?</p>
+		<h6 class="section-title mb-5">Contact Me</h6>
+		<!-- contact form -->
+		<form action="" class="contact-form col-md-10 col-lg-8 m-auto">
+			<div class="form-row">
+				<div class="form-group col-sm-6">
+					<input type="text" size="50" class="form-control" placeholder="Your Name" required>
+				</div>
+				<div class="form-group col-sm-6">
+					<input type="email" class="form-control" placeholder="Enter Email" requried>
+				</div>
+				<div class="form-group col-sm-12">
+					<textarea name="comment" id="comment" rows="6" class="form-control"
+							  placeholder="Write Something"></textarea>
+				</div>
+				<div class="form-group col-sm-12 mt-3">
+					<input type="submit" value="Send Message" class="btn btn-outline-primary rounded">
+				</div>
+			</div>
+		</form><!-- end of contact form -->
+	</div><!-- end of container -->
+</section><!-- end of contact section -->
+<!-- Portfolio Modal 1 -->
+@foreach (var item in Model.PortfolioItems)
+{
+	<div class="portfolio-modal modal fade" id="item-@item.Id" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
+		<div class="modal-dialog modal-xl" role="document">
+			<div class="modal-content">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">
+						<i class="fas fa-times"></i>
+					</span>
+				</button>
+				<div class="modal-body text-center">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-lg-8">
+								<!-- Portfolio Modal - Title -->
+								<h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">@item.ProjectName</h2>
+								<!-- Icon Divider -->
+								<div class="divider-custom">
+									<div class="divider-custom-line"></div>
+									<div class="divider-custom-icon">
+										<i class="fas fa-star"></i>
+									</div>
+									<div class="divider-custom-line"></div>
+								</div>
+								<!-- Portfolio Modal - Image -->
+								<img class="img-fluid rounded mb-5" src="~/imgs/@item.ImageUrl" alt="">
+								<!-- Portfolio Modal - Text -->
+								<p class="mb-5">@item.Description</p>
+								<button class="btn btn-primary" href="#" data-dismiss="modal">
+									<i class="fas fa-times fa-fw"></i>
+									Close Window
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+}

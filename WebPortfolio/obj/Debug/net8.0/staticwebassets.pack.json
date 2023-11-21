@@ -1,0 +1,605 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\css\\meyawo.css",
+      "PackagePath": "staticwebassets\\css\\meyawo.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\files\\ShathaHroub_CV.pdf",
+      "PackagePath": "staticwebassets\\files\\ShathaHroub_CV.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\analytics.svg",
+      "PackagePath": "staticwebassets\\imgs\\analytics.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\background.jpg",
+      "PackagePath": "staticwebassets\\imgs\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\folio-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\folio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\folio-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\folio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\folio-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\folio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\header.jpg",
+      "PackagePath": "staticwebassets\\imgs\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\img-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\img-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\man.png",
+      "PackagePath": "staticwebassets\\imgs\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\me.png",
+      "PackagePath": "staticwebassets\\imgs\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\pencil-case.svg",
+      "PackagePath": "staticwebassets\\imgs\\pencil-case.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\portfolioItem1.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\portfolioItem1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\portfolioItem2.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\portfolioItem2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\responsive.svg",
+      "PackagePath": "staticwebassets\\imgs\\responsive.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\scooter.svg",
+      "PackagePath": "staticwebassets\\imgs\\scooter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\shipped.svg",
+      "PackagePath": "staticwebassets\\imgs\\shipped.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\startup.svg",
+      "PackagePath": "staticwebassets\\imgs\\startup.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\imgs\\toolbox.svg",
+      "PackagePath": "staticwebassets\\imgs\\toolbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\js\\meyawo.js",
+      "PackagePath": "staticwebassets\\js\\meyawo.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_hamburger.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_hamburger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\meyawo.scss",
+      "PackagePath": "staticwebassets\\scss\\meyawo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\Portfolio\\WebPortfolio\\wwwroot\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebPortfolio.props",
+      "PackagePath": "build\\WebPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\WebPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebPortfolio.props",
+      "PackagePath": "buildTransitive\\WebPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
